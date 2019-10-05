@@ -1,3 +1,3 @@
-Nguyen Thanh Trung
-TrungNT66
-FHN.Z1
+Ho va Ten: Nguyen Thanh Trung
+Id: TrungNT66
+Don vi: FHN.Z1
